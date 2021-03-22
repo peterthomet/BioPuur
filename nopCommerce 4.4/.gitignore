@@ -167,6 +167,7 @@ $RECYCLE.BIN/
 #######################
 ## nopCommerce specific
 ###########
+nopCommerce_4.40.2_Source.zip
 glob:*.user
 *.patch
 *.hg
