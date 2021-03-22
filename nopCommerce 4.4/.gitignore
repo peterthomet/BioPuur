@@ -142,7 +142,9 @@ UpgradeLog*.htm
 
 # SQL Server files
 App_Data/*.mdf
+db/*.mdf
 App_Data/*.ldf
+db/*.ldf
 
 #############
 ## Windows detritus
