@@ -1,2 +1,2 @@
 ﻿#biopuur.getyournet.ch
-<img src="main/Logos/logo2.png">
+<img src="Logos/logo2.png">
